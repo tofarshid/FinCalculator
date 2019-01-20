@@ -79,29 +79,28 @@ export class FinCalculatorService {
 
     const calculateIncomeTax = (income: number): number => {
 
-      let carryAmount = getCarry(0, getRateIndex(income));
+      let incomeTax =  ( income - Number(this.getIncometaxCategory(income)) ) // diff from Limit
+                      * getRate(income) // rate
+                      + getCarry(0, getRateIndex(income)); // carry
 
-      return ( income - Number(this.getIncometaxCategory(income)) ) // diff from Limit
-              * ( getRate(income)) // rate
-              + carryAmount; // carry
-  	}
+      return Number(incomeTax.toFixed(2));
+    }
 
   	const calculateRentalIncome = (incomeRental): number => {
 
-  		return incomeRental * .8;
+      return Number((incomeRental * .8).toFixed(2));
   	}
 
   	return this.result$.pipe(
   		map( data => {
+
   			data.incomeTax = calculateIncomeTax(input['grossIncome']);
   			data.rentalIncome = calculateRentalIncome(input['rentalIncome']);
 
-        // code cleanup
-  			data.totalIncome = Number(Number(input['grossIncome']).toFixed(2)) 
-                          + Number(data.rentalIncome.toFixed(2)) 
-                          - Number(data.incomeTax.toFixed(2));
+        data.totalIncome = Number(input['grossIncome']) + data.rentalIncome - data.incomeTax;
   			data.expense = getExpense(data.totalIncome, Number(input['noOfChildren']));
-  			data.surplus = Number((data.totalIncome - data.expense).toFixed(2));
+        data.surplus = Number((data.totalIncome - data.expense).toFixed(2));
+
   			return data;
   		})
   	);
