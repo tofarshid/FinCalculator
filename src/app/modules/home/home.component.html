@@ -4,17 +4,18 @@
 			<form [formGroup]="finCalcForm" (ngSubmit)="onSubmit()" novalidate>
 				<div class="col-md-12 mb-3">
 					<label>Name:</label>
-					<input type="text" formControlName="custName" class="form-control">
+					<input type="text" placeholder="Please enter name" formControlName="custName" class="form-control">
 					<p *ngIf="custName.touched && custName.invalid" class="error"><sup>*</sup>Please enter your name</p>
 				</div>
 				<div class="col-md-12 mb-3">
 					<label>Gross Income:</label>
-					<input type="text" formControlName="grossIncome" class="form-control" valu>
+					<input type="text" formControlName="grossIncome" class="form-control"
+					placeholder="Please enter gross income">
 					<p *ngIf="grossIncome.touched && grossIncome.invalid" class="error"><sup>*</sup>Please enter gross income like 0 or 0.00</p>
 				</div>
 				<div class="col-md-12 mb-3">
 					<label>Rental Income:</label>
-					<input placeholder="" type="text" formControlName="rentalIncome" class="form-control">
+					<input placeholder="Please enter rental income" type="text" formControlName="rentalIncome" class="form-control">
 					<p *ngIf="rentalIncome.touched && rentalIncome.invalid" class="error"><sup>*</sup>Please enter rental income like 0 or 0.00</p>
 				</div>
 				<div class="col-md-12 mb-3">
