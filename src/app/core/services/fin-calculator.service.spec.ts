@@ -32,10 +32,10 @@ describe('FinCalculatorService', () => {
     });
 
     for(let elem in sampleData) {
-      it('given data[`income`:' + sampleData[elem].income 
-        +',`rentalincome`:' 
+      it(elem + ' given data[`income`:' + sampleData[elem].income 
+        +', `rentalincome`:' 
         + sampleData[elem].rentalincome 
-        +'`noofchild`:' + sampleData[elem].noofchild +'] should PASS', () => {
+        +', `noofchild`:' + sampleData[elem].noofchild +'] should PASS', () => {
         finCalculatorService.calculate({
              'custName': 'string',
              'grossIncome': sampleData[elem].income,
