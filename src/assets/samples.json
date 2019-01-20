@@ -1,0 +1,1002 @@
+[
+  {
+    "income": 20000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 342,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 31658,
+    "expense": 28574.29,
+    "surplus": 3083.71
+  },
+  {
+    "income": 20000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 342,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 35658,
+    "expense": 31755,
+    "surplus": 3903
+  },
+  {
+    "income": 20000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 342,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 39658,
+    "expense": 31755,
+    "surplus": 7903
+  },
+  {
+    "income": 20000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 342,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 43658,
+    "expense": 31755,
+    "surplus": 11903
+  },
+  {
+    "income": 20000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 342,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 47658,
+    "expense": 31755,
+    "surplus": 15903
+  },
+  {
+    "income": 30000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 2242,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 39758,
+    "expense": 31755,
+    "surplus": 8003
+  },
+  {
+    "income": 30000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 2242,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 43758,
+    "expense": 31755,
+    "surplus": 12003
+  },
+  {
+    "income": 30000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 2242,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 47758,
+    "expense": 31755,
+    "surplus": 16003
+  },
+  {
+    "income": 30000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 2242,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 51758,
+    "expense": 31755,
+    "surplus": 20003
+  },
+  {
+    "income": 30000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 2242,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 55758,
+    "expense": 31755,
+    "surplus": 24003
+  },
+  {
+    "income": 40000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 4547,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 47453,
+    "expense": 34205.71,
+    "surplus": 13247.29
+  },
+  {
+    "income": 40000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 4547,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 51453,
+    "expense": 34205.71,
+    "surplus": 17247.29
+  },
+  {
+    "income": 40000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 4547,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 55453,
+    "expense": 34205.71,
+    "surplus": 21247.29
+  },
+  {
+    "income": 40000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 4547,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 59453,
+    "expense": 34205.71,
+    "surplus": 25247.29
+  },
+  {
+    "income": 40000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 4547,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 63453,
+    "expense": 34205.71,
+    "surplus": 29247.29
+  },
+  {
+    "income": 50000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 7797,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 54203,
+    "expense": 34205.71,
+    "surplus": 19997.29
+  },
+  {
+    "income": 50000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 7797,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 58203,
+    "expense": 34205.71,
+    "surplus": 23997.29
+  },
+  {
+    "income": 50000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 7797,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 62203,
+    "expense": 34205.71,
+    "surplus": 27997.29
+  },
+  {
+    "income": 50000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 7797,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 66203,
+    "expense": 34205.71,
+    "surplus": 31997.29
+  },
+  {
+    "income": 50000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 7797,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 70203,
+    "expense": 34205.71,
+    "surplus": 35997.29
+  },
+  {
+    "income": 60000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 11047,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 60953,
+    "expense": 39680.71,
+    "surplus": 21272.29
+  },
+  {
+    "income": 60000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 11047,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 64953,
+    "expense": 39680.71,
+    "surplus": 25272.29
+  },
+  {
+    "income": 60000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 11047,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 68953,
+    "expense": 39680.71,
+    "surplus": 29272.29
+  },
+  {
+    "income": 60000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 11047,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 72953,
+    "expense": 39680.71,
+    "surplus": 33272.29
+  },
+  {
+    "income": 60000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 11047,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 76953,
+    "expense": 42496.43,
+    "surplus": 34456.57
+  },
+  {
+    "income": 70000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 14297,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 67703,
+    "expense": 39680.71,
+    "surplus": 28022.29
+  },
+  {
+    "income": 70000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 14297,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 71703,
+    "expense": 39680.71,
+    "surplus": 32022.29
+  },
+  {
+    "income": 70000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 14297,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 75703,
+    "expense": 42496.43,
+    "surplus": 33206.57
+  },
+  {
+    "income": 70000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 14297,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 79703,
+    "expense": 42496.43,
+    "surplus": 37206.57
+  },
+  {
+    "income": 70000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 14297,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 83703,
+    "expense": 42496.43,
+    "surplus": 41206.57
+  },
+  {
+    "income": 80000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 17547,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 74453,
+    "expense": 31755,
+    "surplus": 42698
+  },
+  {
+    "income": 80000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 17547,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 78453,
+    "expense": 34466.43,
+    "surplus": 43986.57
+  },
+  {
+    "income": 80000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 17547,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 82453,
+    "expense": 34466.43,
+    "surplus": 47986.57
+  },
+  {
+    "income": 80000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 17547,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 86453,
+    "expense": 34466.43,
+    "surplus": 51986.57
+  },
+  {
+    "income": 80000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 17547,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 90453,
+    "expense": 34466.43,
+    "surplus": 55986.57
+  },
+  {
+    "income": 90000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 20932,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 81068,
+    "expense": 34466.43,
+    "surplus": 46601.57
+  },
+  {
+    "income": 90000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 20932,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 85068,
+    "expense": 34466.43,
+    "surplus": 50601.57
+  },
+  {
+    "income": 90000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 20932,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 89068,
+    "expense": 34466.43,
+    "surplus": 54601.57
+  },
+  {
+    "income": 90000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 20932,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 93068,
+    "expense": 34466.43,
+    "surplus": 58601.57
+  },
+  {
+    "income": 90000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 20932,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 97068,
+    "expense": 34466.43,
+    "surplus": 62601.57
+  },
+  {
+    "income": 100000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 24632,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 87368,
+    "expense": 36812.86,
+    "surplus": 50555.14
+  },
+  {
+    "income": 100000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 24632,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 91368,
+    "expense": 36812.86,
+    "surplus": 54555.14
+  },
+  {
+    "income": 100000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 24632,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 95368,
+    "expense": 36812.86,
+    "surplus": 58555.14
+  },
+  {
+    "income": 100000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 24632,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 99368,
+    "expense": 36812.86,
+    "surplus": 62555.14
+  },
+  {
+    "income": 100000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 24632,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 103368,
+    "expense": 36812.86,
+    "surplus": 66555.14
+  },
+  {
+    "income": 110000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 28332,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 93668,
+    "expense": 36812.86,
+    "surplus": 56855.14
+  },
+  {
+    "income": 110000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 28332,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 97668,
+    "expense": 36812.86,
+    "surplus": 60855.14
+  },
+  {
+    "income": 110000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 28332,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 101668,
+    "expense": 36812.86,
+    "surplus": 64855.14
+  },
+  {
+    "income": 110000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 28332,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 105668,
+    "expense": 36812.86,
+    "surplus": 68855.14
+  },
+  {
+    "income": 110000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 28332,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 109668,
+    "expense": 36812.86,
+    "surplus": 72855.14
+  },
+  {
+    "income": 120000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 32032,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 99968,
+    "expense": 42496.43,
+    "surplus": 57471.57
+  },
+  {
+    "income": 120000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 32032,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 103968,
+    "expense": 42496.43,
+    "surplus": 61471.57
+  },
+  {
+    "income": 120000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 32032,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 107968,
+    "expense": 42496.43,
+    "surplus": 65471.57
+  },
+  {
+    "income": 120000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 32032,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 111968,
+    "expense": 42496.43,
+    "surplus": 69471.57
+  },
+  {
+    "income": 120000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 32032,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 115968,
+    "expense": 42496.43,
+    "surplus": 73471.57
+  },
+  {
+    "income": 130000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 35732,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 106268,
+    "expense": 42496.43,
+    "surplus": 63771.57
+  },
+  {
+    "income": 130000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 35732,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 110268,
+    "expense": 42496.43,
+    "surplus": 67771.57
+  },
+  {
+    "income": 130000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 35732,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 114268,
+    "expense": 42496.43,
+    "surplus": 71771.57
+  },
+  {
+    "income": 130000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 35732,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 118268,
+    "expense": 42496.43,
+    "surplus": 75771.57
+  },
+  {
+    "income": 130000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 35732,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 122268,
+    "expense": 42496.43,
+    "surplus": 79771.57
+  },
+  {
+    "income": 140000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 39432,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 112568,
+    "expense": 34466.43,
+    "surplus": 78101.57
+  },
+  {
+    "income": 140000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 39432,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 116568,
+    "expense": 34466.43,
+    "surplus": 82101.57
+  },
+  {
+    "income": 140000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 39432,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 120568,
+    "expense": 34466.43,
+    "surplus": 86101.57
+  },
+  {
+    "income": 140000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 39432,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 124568,
+    "expense": 34466.43,
+    "surplus": 90101.57
+  },
+  {
+    "income": 140000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 39432,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 128568,
+    "expense": 34466.43,
+    "surplus": 94101.57
+  },
+  {
+    "income": 150000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 43132,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 118868,
+    "expense": 34466.43,
+    "surplus": 84401.57
+  },
+  {
+    "income": 150000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 43132,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 122868,
+    "expense": 34466.43,
+    "surplus": 88401.57
+  },
+  {
+    "income": 150000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 43132,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 126868,
+    "expense": 34466.43,
+    "surplus": 92401.57
+  },
+  {
+    "income": 150000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 43132,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 130868,
+    "expense": 34466.43,
+    "surplus": 96401.57
+  },
+  {
+    "income": 150000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 43132,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 134868,
+    "expense": 34466.43,
+    "surplus": 100401.57
+  },
+  {
+    "income": 160000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 46832,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 125168,
+    "expense": 36812.86,
+    "surplus": 88355.14
+  },
+  {
+    "income": 160000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 46832,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 129168,
+    "expense": 36812.86,
+    "surplus": 92355.14
+  },
+  {
+    "income": 160000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 46832,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 133168,
+    "expense": 36812.86,
+    "surplus": 96355.14
+  },
+  {
+    "income": 160000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 46832,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 137168,
+    "expense": 36812.86,
+    "surplus": 100355.14
+  },
+  {
+    "income": 160000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 46832,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 141168,
+    "expense": 36812.86,
+    "surplus": 104355.14
+  },
+  {
+    "income": 170000,
+    "rentalincome": 15000,
+    "noofchild": 1,
+    "incometax": 50532,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 131468,
+    "expense": 36812.86,
+    "surplus": 94655.14
+  },
+  {
+    "income": 170000,
+    "rentalincome": 20000,
+    "noofchild": 1,
+    "incometax": 50532,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 135468,
+    "expense": 36812.86,
+    "surplus": 98655.14
+  },
+  {
+    "income": 170000,
+    "rentalincome": 25000,
+    "noofchild": 1,
+    "incometax": 50532,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 139468,
+    "expense": 36812.86,
+    "surplus": 102655.14
+  },
+  {
+    "income": 170000,
+    "rentalincome": 30000,
+    "noofchild": 1,
+    "incometax": 50532,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 143468,
+    "expense": 36812.86,
+    "surplus": 106655.14
+  },
+  {
+    "income": 170000,
+    "rentalincome": 35000,
+    "noofchild": 1,
+    "incometax": 50532,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 147468,
+    "expense": 36812.86,
+    "surplus": 110655.14
+  },
+  {
+    "income": 180000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 54232,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 137768,
+    "expense": 42496.43,
+    "surplus": 95271.57
+  },
+  {
+    "income": 180000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 54232,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 141768,
+    "expense": 42496.43,
+    "surplus": 99271.57
+  },
+  {
+    "income": 180000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 54232,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 145768,
+    "expense": 42496.43,
+    "surplus": 103271.57
+  },
+  {
+    "income": 180000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 54232,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 149768,
+    "expense": 42496.43,
+    "surplus": 107271.57
+  },
+  {
+    "income": 180000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 54232,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 153768,
+    "expense": 46720,
+    "surplus": 107048
+  },
+  {
+    "income": 190000,
+    "rentalincome": 15000,
+    "noofchild": 2,
+    "incometax": 58732,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 143268,
+    "expense": 42496.43,
+    "surplus": 100771.57
+  },
+  {
+    "income": 190000,
+    "rentalincome": 20000,
+    "noofchild": 2,
+    "incometax": 58732,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 147268,
+    "expense": 42496.43,
+    "surplus": 104771.57
+  },
+  {
+    "income": 190000,
+    "rentalincome": 25000,
+    "noofchild": 2,
+    "incometax": 58732,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 151268,
+    "expense": 46720,
+    "surplus": 104548
+  },
+  {
+    "income": 190000,
+    "rentalincome": 30000,
+    "noofchild": 2,
+    "incometax": 58732,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 155268,
+    "expense": 46720,
+    "surplus": 108548
+  },
+  {
+    "income": 190000,
+    "rentalincome": 35000,
+    "noofchild": 2,
+    "incometax": 58732,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 159268,
+    "expense": 46720,
+    "surplus": 112548
+  },
+  {
+    "income": 200000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 63232,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 148768,
+    "expense": 34466.43,
+    "surplus": 114301.57
+  },
+  {
+    "income": 200000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 63232,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 152768,
+    "expense": 38533.57,
+    "surplus": 114234.43
+  },
+  {
+    "income": 200000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 63232,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 156768,
+    "expense": 38533.57,
+    "surplus": 118234.43
+  },
+  {
+    "income": 200000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 63232,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 160768,
+    "expense": 38533.57,
+    "surplus": 122234.43
+  },
+  {
+    "income": 200000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 63232,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 164768,
+    "expense": 38533.57,
+    "surplus": 126234.43
+  },
+  {
+    "income": 205000,
+    "rentalincome": 15000,
+    "noofchild": 0,
+    "incometax": 65482,
+    "rentalincomeaftertax": 12000,
+    "totalincome": 151518,
+    "expense": 38533.57,
+    "surplus": 112984.43
+  },
+  {
+    "income": 205000,
+    "rentalincome": 20000,
+    "noofchild": 0,
+    "incometax": 65482,
+    "rentalincomeaftertax": 16000,
+    "totalincome": 155518,
+    "expense": 38533.57,
+    "surplus": 116984.43
+  },
+  {
+    "income": 205000,
+    "rentalincome": 25000,
+    "noofchild": 0,
+    "incometax": 65482,
+    "rentalincomeaftertax": 20000,
+    "totalincome": 159518,
+    "expense": 38533.57,
+    "surplus": 120984.43
+  },
+  {
+    "income": 205000,
+    "rentalincome": 30000,
+    "noofchild": 0,
+    "incometax": 65482,
+    "rentalincomeaftertax": 24000,
+    "totalincome": 163518,
+    "expense": 38533.57,
+    "surplus": 124984.43
+  },
+  {
+    "income": 205000,
+    "rentalincome": 35000,
+    "noofchild": 0,
+    "incometax": 65482,
+    "rentalincomeaftertax": 28000,
+    "totalincome": 167518,
+    "expense": 38533.57,
+    "surplus": 128984.43
+  }
+]

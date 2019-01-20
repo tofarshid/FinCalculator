@@ -1,0 +1,94 @@
+<div class="container-fluid">
+	<mat-vertical-stepper linear #stepper>
+		<mat-step label="Enter your details" [stepControl]="finCalcForm">
+			<form [formGroup]="finCalcForm" (ngSubmit)="onSubmit()" novalidate>
+				<div class="col-md-12 mb-3">
+					<label>Name:</label>
+					<input type="text" formControlName="custName" class="form-control">
+					<p *ngIf="custName.touched && custName.invalid" class="error"><sup>*</sup>Please enter your name</p>
+				</div>
+				<div class="col-md-12 mb-3">
+					<label>Gross Income:</label>
+					<input type="text" formControlName="grossIncome" class="form-control" valu>
+					<p *ngIf="grossIncome.touched && grossIncome.invalid" class="error"><sup>*</sup>Please enter gross income like 0 or 0.00</p>
+				</div>
+				<div class="col-md-12 mb-3">
+					<label>Rental Income:</label>
+					<input placeholder="" type="text" formControlName="rentalIncome" class="form-control">
+					<p *ngIf="rentalIncome.touched && rentalIncome.invalid" class="error"><sup>*</sup>Please enter rental income like 0 or 0.00</p>
+				</div>
+				<div class="col-md-12 mb-3">
+					<label>No of children:</label>
+					<input placeholder="Please enter a number between 0 and 10" type="text" formControlName="noOfChildren" class="form-control">
+					<p *ngIf="noOfChildren.touched && noOfChildren.invalid" class="error"><sup>*</sup>Please enter a number between 0 and 10</p>
+				</div>
+				<div class="col-md-12 mb-3">
+					<button mat-raised-button matStepperNext color="primary" type="submit" [disabled]="!finCalcForm.valid">Calculate</button>
+				</div>
+			</form>
+		</mat-step>
+
+		<mat-step label="Result">
+			<div class="col-md-12 data-class">
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large">
+					<div fxFlex="50">
+						Income Tax:
+					</div>
+					<div fxFlex="50" class="results">
+						{{ (result$ | async).incomeTax | currency:'AUD' }}
+					</div>
+				</div>
+			</div>
+			<div class="col-md-12 data-class">
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large">
+					<div fxFlex="50">
+						Rental Income:
+					</div>
+					<div fxFlex="50" class="results">
+						{{ (result$ | async).rentalIncome | currency:'AUD' }}
+					</div>
+				</div>
+			</div>
+			<div class="col-md-12 data-class">
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large">
+					<div fxFlex="50">
+						Total Income:
+					</div>
+					<div fxFlex="50" class="results">
+						{{ (result$ | async).totalIncome | currency:'AUD' }}
+					</div>
+				</div>
+			</div>
+			<div class="col-md-12 data-class">
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large">
+					<div fxFlex="50">
+						Expense:
+					</div>
+					<div fxFlex="50" class="results">
+						{{ (result$ | async).expense | currency:'AUD' }}
+					</div>
+				</div>
+			</div>
+			<div class="col-md-12 data-class">
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large" *ngIf="(result$ | async).surplus > 0">
+					<div fxFlex="50">
+						Surplas:
+					</div>
+					<div fxFlex="50" class="results" >
+						{{ (result$ | async).surplus | currency:'AUD' }}
+					</div>
+				</div>
+				<div fxLayout="row" class="container-fluid" ngClass.gt-md="paddig-for-large" *ngIf="(result$ | async).surplus < 0">
+					<div fxFlex="50">
+						Deficit:
+					</div>
+					<div fxFlex="50" class="results" >
+						{{ (result$ | async).surplus | currency:'AUD' }}
+					</div>
+				</div>
+			</div>
+			<br>
+			<button mat-raised-button color="primary" matStepperPrevious>Back</button>
+		</mat-step>
+	</mat-vertical-stepper>
+</div>
