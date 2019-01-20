@@ -40,6 +40,7 @@ export class FinCalculatorService {
   }
 
   getExpenseData() {
+    // return this.http.get('http://simpleideas.com.au/FinCalculator/samples.json');
     return this.http.get('../../assets/expense.json');
   }
 
@@ -99,7 +100,7 @@ export class FinCalculatorService {
   			data.totalIncome = Number(Number(input['grossIncome']).toFixed(2)) 
                           + Number(data.rentalIncome.toFixed(2)) 
                           - Number(data.incomeTax.toFixed(2));
-  			data.expense = getExpense(data.totalIncome, input['noOfChildren']);
+  			data.expense = getExpense(data.totalIncome, Number(input['noOfChildren']));
   			data.surplus = Number((data.totalIncome - data.expense).toFixed(2));
   			return data;
   		})
