@@ -16,10 +16,10 @@ export class HomeComponent {
   result$: Observable<Result>
 
   finCalcForm = this.fb.group({
-  	custName: ['Farshid', Validators.required],
-  	grossIncome: ['20000', [Validators.required, Validators.pattern(/^[0-9]+(\.[0-9]{1,2})?$/)]],
-  	rentalIncome: ['15000', [Validators.required, Validators.pattern(/^[0-9]+(\.[0-9]{1,2})?$/)]],
-  	noOfChildren: ['0', [Validators.required, Validators.pattern("^[0-9]*$"), Validators.max(10), Validators.min(0)]]
+  	custName: ['', Validators.required],
+  	grossIncome: ['', [Validators.required, Validators.pattern(/^[0-9]+(\.[0-9]{1,2})?$/)]],
+  	rentalIncome: ['', [Validators.required, Validators.pattern(/^[0-9]+(\.[0-9]{1,2})?$/)]],
+  	noOfChildren: ['', [Validators.required, Validators.pattern("^[0-9]*$"), Validators.max(10), Validators.min(0)]]
   });
 
   constructor( private fb: FormBuilder, private finCalculatorService: FinCalculatorService ) { 
