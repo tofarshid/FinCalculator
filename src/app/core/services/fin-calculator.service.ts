@@ -72,7 +72,7 @@ export class FinCalculatorService {
     // get array index
     const getRateIndex = (income: number): number => {
 
-      return this.rates.map( e => e.limit).indexOf(Number(this.getIncometaxCategory(income)));
+      return this.rates.map(e => e.limit).indexOf(Number(this.getIncometaxCategory(income)));
     }
 
     // main functions to get income tax and rental income
