@@ -22,15 +22,15 @@ export class FinCalculatorService {
                       							surplus: 0.00
                       						});
   
-  expense_data; 
+  public expense_data; 
 
-  rates = [ {'limit': 0, 'rate' : 0},
-            {'limit': 18200, 'rate' : 0.19 },
-            {'limit': 37000, 'rate' : 0.325 },
-            {'limit': 87000, 'rate' : 0.37 },
-            {'limit': 180000, 'rate' : 0.45 }];
+  public  rates = [  {'limit': 0, 'rate' : 0},
+                      {'limit': 18200, 'rate' : 0.19 },
+                      {'limit': 37000, 'rate' : 0.325 },
+                      {'limit': 87000, 'rate' : 0.37 },
+                      {'limit': 180000, 'rate' : 0.45 }];
 
-  constructor(private http: HttpClient) { 
+  constructor( private http: HttpClient ) { 
 
     // get expense data from JSON
 
